@@ -1,6 +1,6 @@
 ---
 name: anti-defensive-writing
-description: "Prevent defensive writing in academic papers. Treat a paper as a press release of your strongest finding, not a project report or self-audit. Identify the most publishable value and build the narrative around it. Triggers: paper revision, abstract writing, introduction writing, conclusion writing, paper compression, rebuttal, defensive writing, self-doubt."
+description: "Prevent defensive writing in academic papers. Treat a paper as a press release of your strongest finding, not a project report or self-audit. Triggers - paper revision, abstract, introduction, conclusion, compression, rebuttal, defensive writing, self-doubt."
 ---
 
 # 学术写作原则 (The Press-Release Principle)
